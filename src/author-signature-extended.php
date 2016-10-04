@@ -5,9 +5,9 @@
  * Plugin URI: https://wordpress.org/plugins/author-signature-extended/
  * Description: Adds the author signature to the bottom of posts and pages. Also adds a shortcode to insert the author signature.
  * Author: Jeremy Marcus
- * Version: 2.0
- * Author URI: http://www.thedahliascene.com/author/jeremy/
- * License: GPL2+
+ * Version: 1.0
+ * Author URI: http://jmarc.us
+ * License: GPLv3
  * Text Domain: author_signature_extended
  */
 
